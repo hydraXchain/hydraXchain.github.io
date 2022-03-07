@@ -22,6 +22,7 @@ title: About
   <tr>
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td>
+    <td>Maria Anders</td>  
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
