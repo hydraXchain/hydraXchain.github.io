@@ -16,8 +16,8 @@ title: About
 
  <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
+    <th>Name</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
