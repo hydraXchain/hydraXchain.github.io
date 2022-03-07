@@ -6,7 +6,12 @@ title: About
 
 <br>
 
-    An Offensive Security person, who is playing with the core of the 7 layers to build the 0day Empire.
+    An Offensive Security person, who is playing with the core of the 7 layers 
+    to build the 0day Empire.
+# Experince
+
+# Achievements
+
 
 # Contact
 
