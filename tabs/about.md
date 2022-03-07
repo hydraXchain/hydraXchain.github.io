@@ -2,7 +2,7 @@
 title: About
 ---
 
-<img src="https://avatars.githubusercontent.com/u/62406753" style="align:center;">
+<center><img src="https://avatars.githubusercontent.com/u/62406753"></center>
 
 <br>
 
