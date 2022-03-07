@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: xElkomy InfoSec Blog                          # the main title
+title: Zeyad Azima (Cyber Security Blog)                          # the main title
 
-tagline: XElkomy InfoSec Blog | CTF ,Write up HackTheBox And Root-me And Vulnhub , Proof of Concept Vulnerability ,Bug Bounty  # it will display as the sub-title
+tagline: Cyber Security Blog for the 7 OSI layer  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -18,30 +18,30 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://xelkomy.github.io'
+url: 'https://zeyad-azima.github.io/'
 
-author: xElkomy                  # change to your full name
+author: Zeyad Azima                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: xElkomy             # change to your github username
+  username: Zeyad-Azima             # change to your github username
 
 twitter:
-  username: 0xElkomy            # change to your twitter username
+  username: AzimaZeyad            # change to your twitter username
 
 social:
-  name: Khaled Mohamed                  # it will shows as the copyright owner in Footer
-  email: khaledmohamedxelkomy@protonmail.com             # change to your email address
+  name: Zeyad Azima                 # it will shows as the copyright owner in Footer
+  email: thehunterx651@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/0xElkomy      # change to your twitter homepage
-    - https://github.com/0xElkomy       # change to your github homepage
+    - https://twitter.com/AzimaZeyad      # change to your twitter homepage
+    - https://github.com/Zeyad-Azima      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/zer0verflow
 
-google_site_verification: googlee02f71657ceab9b0.html # change to your verification string
+google_site_verification: # change to your verification string
 
 #--------------------------
 
@@ -54,7 +54,7 @@ baseurl: ''
 timezone: Africa/Cairo
 
 google_analytics:
-  id: 'UA-133542327-3'          # Fill with your Google Analytics ID
+  id: ''          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
