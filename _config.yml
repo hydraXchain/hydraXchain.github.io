@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Zeyad Azima (Cyber Security Blog)                          # the main title
+title: Zeyad Azima                        # the main title
 
-tagline: Cyber Security Blog for the 7 OSI layer  # it will display as the sub-title
+tagline: Hack all the things, Fly with free wings.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
