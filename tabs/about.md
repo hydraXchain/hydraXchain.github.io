@@ -2,8 +2,6 @@
 title: About
 ---
 
-<center><img src="https://avatars.githubusercontent.com/u/62406753"></center>
-
 <br>
 
     An Offensive Security person, who is playing with the core of the 7 layers 
@@ -19,3 +17,5 @@ title: About
       <td><a href="https://twitter.com/@AzimaZeyad">Twitter</a></td>
   </tr>
 </table> 
+
+<center><img src="https://avatars.githubusercontent.com/u/62406753"></center>
