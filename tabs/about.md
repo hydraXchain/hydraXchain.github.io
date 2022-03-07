@@ -2,6 +2,7 @@
 title: About
 ---
 <center><img src="https://avatars.githubusercontent.com/u/62406753"></center>
+
     An Offensive Security person, who is playing with the core of the 7 layers to build the 0day Empire.
 
 # Contact
