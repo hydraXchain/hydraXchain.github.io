@@ -7,7 +7,7 @@ title: About
 # Contact
 
 
-|<a href="https://www.linkedin.com/in/zer0verflow/">Linkedin</a>|<a href="https://github.com/Zeyad-Azima">Github</a>|<a href="https://twitter.com/@AzimaZeyad">Twitter</a>
+|<a href="https://www.linkedin.com/in/zer0verflow/">Linkedin</a>|<a href="https://github.com/Zeyad-Azima">Github</a>|<a href="https://twitter.com/@AzimaZeyad">Twitter</a>|
 |-----------------------------------------------------------------|
 
 <img src="https://avatars.githubusercontent.com/u/62406753">
