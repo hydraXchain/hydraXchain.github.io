@@ -16,19 +16,13 @@ title: About
 
  <table>
   <tr>
-    <th>Name</th>
-    <th>Link</th>
+    <th>Linkedin</th>
+    <th>Github</th>
+    <th>Twitter</th>
   </tr>
   <tr>
-      <td>Linkedin</td>
       <td><a href="https://www.linkedin.com/in/zer0verflow/">Linkedin</a></td>
-  </tr>
-  <tr>
-    <td>Github</td>
-    <td><a href="https://github.com/Zeyad-Azima">Github</a></td>
-  </tr>
-  <tr>
-    <td>Twitter</td>
-    <td><a href="https://twitter.com/@AzimaZeyad">Twitter</a></td>
+      <td><a href="https://github.com/Zeyad-Azima">Github</a></td>
+      <td><a href="https://twitter.com/@AzimaZeyad">Twitter</a></td>
   </tr>
 </table> 
