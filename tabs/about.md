@@ -16,11 +16,6 @@ title: About
 
  <table>
   <tr>
-    <th>Linkedin</th>
-    <th>Github</th>
-    <th>Twitter</th>
-  </tr>
-  <tr>
       <td><a href="https://www.linkedin.com/in/zer0verflow/">Linkedin</a></td>
       <td><a href="https://github.com/Zeyad-Azima">Github</a></td>
       <td><a href="https://twitter.com/@AzimaZeyad">Twitter</a></td>
