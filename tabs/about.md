@@ -18,7 +18,6 @@ title: About
   <tr>
     <th>Company</th>
     <th>Contact</th>
-    <th>Country</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
