@@ -5,13 +5,17 @@
 #  MIT Licensed
 
 -
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/zer0verflow/'                  # Fill with your Linkedin homepage
+
   type: github
   icon: 'fab fa-github-alt'
-  url: 'https://github.com/xElkomy'
+  url: 'https://github.com/Zeyad-Azima'
 -
   type: twitter
   icon: 'fab fa-twitter'
-  url: 'https://twitter.com/0xElkomy'
+  url: 'https://twitter.com/AzimaZeyad'
 -
   type: email
   icon: 'fas fa-envelope'
