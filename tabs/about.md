@@ -2,8 +2,6 @@
 title: About
 ---
 
-<br>
-
     An Offensive Security person, who is playing with the core of the 7 layers 
     to build the 0day Empire.
 
@@ -17,5 +15,7 @@ title: About
       <td><a href="https://twitter.com/@AzimaZeyad">Twitter</a></td>
   </tr>
 </table> 
+
+<br>
 
 <center><img src="https://avatars.githubusercontent.com/u/62406753"></center>
