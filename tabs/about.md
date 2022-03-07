@@ -6,7 +6,7 @@ title: About
 
 # Contact
 
-|-----------------------------------------------------------------|
+
 |<a href="https://www.linkedin.com/in/zer0verflow/">Linkedin</a>|
 |-----------------------------------------------------------------|
     Github : Zeyad-Azima
