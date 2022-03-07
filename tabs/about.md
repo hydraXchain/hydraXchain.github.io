@@ -9,10 +9,6 @@ title: About
     An Offensive Security person, who is playing with the core of the 7 layers 
     to build the 0day Empire.
 
-# Achievements
-
-- 6th rank on Arab Security Cyberwar games
-- Top 10 Security Researchers on ZTE (2021)
 
 # Contact
 
