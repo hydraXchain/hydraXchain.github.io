@@ -20,12 +20,15 @@ title: About
     <th>Link</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Maria Anders</td>  
+      <td>Linkedin</td>
+      <td><a href="https://www.linkedin.com/in/zer0verflow/">Linkedin</a></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>Github</td>
+    <td><a href="https://github.com/Zeyad-Azima">Github</a></td>
+  </tr>
+  <tr>
+    <td>Twitter</td>
+    <td><a href="https://twitter.com/@AzimaZeyad">Twitter</a></td>
   </tr>
 </table> 
