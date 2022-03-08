@@ -13,9 +13,7 @@ title: Zeyad Azima                        # the main title
 tagline: Hack all the things, Fly with free wings.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+ A Cyber Security & Technologyt blog for those who are sick with 0's & 1's
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://zeyad-azima.github.io/'
