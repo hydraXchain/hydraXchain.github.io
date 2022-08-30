@@ -6,6 +6,8 @@ tags: ["Bugbouny","Bug bouny","Enumeration","Recon","Subdomains"]
 match: true
 ---
 
+# Unlimited subdomain enumeration workflow
+
 <img src="/assets/img/Subenum/Subdomain-enum-workflow.png">
 
 # Contents
