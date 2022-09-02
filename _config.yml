@@ -8,36 +8,36 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Zeyad Azima                        # the main title
+title: hydraXchain                        # the main title
 
-tagline: Hack all the things, Fly with free wings.  # it will display as the sub-title
+tagline: Anything related to the chained blocks.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- A Cyber Security & Technologt blog for those who are sick with 0's & 1's
+ A Blockchain/Security blog for those who are intereasted in breaking the chained blocks.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://zeyad-azima.github.io/'
+url: 'https://hydraXchain.github.io/'
 
-author: Zeyad Azima                  # change to your full name
+author: MHZCyber & Zeyad Azima                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: Zeyad-Azima             # change to your github username
+  username: hydraXchain             # change to your github username
 
 twitter:
-  username: AzimaZeyad            # change to your twitter username
+  username: hydraXchain            # change to your twitter username
 
 social:
-  name: Zeyad Azima                 # it will shows as the copyright owner in Footer
-  email: thehunterx651@gmail.com            # change to your email address
+  name: hydraXchain                 # it will shows as the copyright owner in Footer
+  email:            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/AzimaZeyad      # change to your twitter homepage
-    - https://github.com/Zeyad-Azima      # change to your github homepage
+    # https://twitter.com/AzimaZeyad      # change to your twitter homepage
+    # https://github.com/Zeyad-Azima      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/zer0verflow
+    # https://www.linkedin.com/in/zer0verflow
 
 google_site_verification: # change to your verification string
 
