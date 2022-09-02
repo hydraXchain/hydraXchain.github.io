@@ -2,7 +2,7 @@
 title: About
 ---
 
-<center><img src="/assets/img/sample/avatar.jpg" width="400" height="400"/></center>
+<center><img src="/assets/img/sample/avatar.jpg" width="100" height="100"/></center>
     
 
     A Blockchain/Security Blog for those who are intereasted in breaking the chained blocks.
