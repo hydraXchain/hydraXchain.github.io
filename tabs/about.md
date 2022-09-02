@@ -2,7 +2,7 @@
 title: About
 ---
 
-<center><img src="/assets/img/sample/avatar.jpg" width="500" height="500"/>
+<center><img src="/assets/img/sample/avatar.jpg" width="400" height="400"/>
     
 ```
 A Blockchain/Security Blog for those who are intereasted in breaking the chained blocks.
@@ -27,6 +27,7 @@ A Blockchain/Security Blog for those who are intereasted in breaking the chained
   <tr>
       <td><a href="https://www.linkedin.com/in/mhzcyber/">Linkedin</a></td>
       <td><a href="https://github.com/mhzcyber">Github</a></td>
+      <td><a href="https://twitter.com/mhz_cyber">Twitter</a></td>
   </tr>
 </table> 
 
