@@ -2,10 +2,13 @@
 title: About
 ---
 
-<center><img src="/assets/img/sample/avatar.jpg"></center>
-
-    A Blockchain/Security Blog for those who are intereasted in breaking the chained blocks.
-
+<center><img src="/assets/img/sample/avatar.jpg" width="500" height="500"/>
+    
+```
+A Blockchain/Security Blog for those who are intereasted in breaking the chained blocks.
+```    
+    
+</center>
 
 # Team
 
