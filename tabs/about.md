@@ -27,7 +27,7 @@ title: About
 
 <h3>
     
-- MHZCyber
+- Mohammad Hussam Alzeyyat (MHZCYBER)
     
 </h3>
  <table>
