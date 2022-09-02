@@ -5,7 +5,7 @@ title: About
 <center><img src="/assets/img/sample/avatar.jpg" width="300" height="300"/></center>
     
 
-<center><h1>A Blockchain/Security Blog for those who are intereasted in breaking the chained blocks.</h1></center>
+    A Blockchain/Security Blog for those who are intereasted in breaking the chained blocks.
 
 
 
